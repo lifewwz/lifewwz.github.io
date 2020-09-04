@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Weizheng Wang (王惟正)"
-  avatar           : "WechatIMG25431.jpeg"
+  avatar           : "/WechatIMG25431.jpeg"
   bio              : "A master student whose major is infomation security studies in University of Aizu"
   location         : "Aizu-Wakamatsu City, Japan"
   employer         :
