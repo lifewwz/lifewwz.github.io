@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weizheng Wang-Academic Homepage"
+title                    : "Weizheng Wang"
 title_separator          : #""
 name                     : &name "Weizheng Wang (王惟正)"
 description              : &description "Master Student in University of Aizu, Japan"
