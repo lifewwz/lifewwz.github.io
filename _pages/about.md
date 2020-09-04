@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+I am a master student who studies computer science in the information security lab, University of Aizu, Japan. Now, My professor is Prof.Chunhua Su. Before that, I obtained my bachelor's degree of software engineering at school of information engineering, Yangzhou University, China, where I was co-advised by Prof. Lejun Zhang.
