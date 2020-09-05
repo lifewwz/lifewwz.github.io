@@ -16,7 +16,7 @@ redirect_from:
   * [SEC’20] <b>Weizheng Wang</b>, Chunhua Su. "CCBRSN: A System with High Embedding Capacity for Covert Communication in Bitcoin." 35th IFIP TC-11 SEC 2020 International Information Security and Privacy Conference, September 21 – 23, 2020, Maribor, Slovenia. (CCF-C) 
   
 * Journal
-  * [IEEE IoTJ] <b>Weizheng Wang</b>, Huakun Huang, Jingcheng Song, Lejun Zhang, Zhiyuan Tan, Houbing Song, Chunhua Su. ”Smart Contract Token-Based Privacy-Preserving Access Control for Industrial Internet of Things.” IEEE Internet of Things Journal.(Under review)
+  * [IEEE IoTJ] <b>Weizheng Wang</b>, Huakun Huang, Jingcheng Song, Lejun Zhang, Zhiyuan Tan, Houbing Song, Chunhua Su. ”Smart Contract Token-Based Privacy-Preserving Access Control for Industrial Internet of Things.” IEEE Internet of Things Journal. (Under review)
   * [P2P NETW APPL] <b>Weizheng Wang</b>, Huakun Huang, Lejun zhang, Chunhua Su. ”Secure and Efficient Mutual Authentication Protocol for Smart Grid under Blockchain.” Peer-to-Peer Networking and Applications. (Under review)
   * [IEEE Sensors] Jingchen Song, Qi Zhong, <b>Weizheng Wang</b>, Chunhua Su, Zhiyuan Tan, Yining Liu. ”A Flexible Privacy-preserving Data Publishing Scheme based on Smart Agriculture.” IEEE Sensors Journal.
   * [CMC] Lejun Zhang, Tianwen Huang, Xiaoyan Hu, Zhijie Zhang, <b>Weizheng Wang</b>, Donghai Guan, Chunhui Zhao, Seokhoon Kim. ”A Distributed Covert Channel of the Packet Ordering Enhancement Model Based on Data Compression.” Computers, Materials & Continua.
