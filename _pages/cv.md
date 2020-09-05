@@ -12,7 +12,7 @@ redirect_from:
 2020
 ======
 * Conference
-  * B.S. in GitHub, GitHub University, 2012 
+  * CCBRSN: A System with High Embedding Capacity for Covert Communication in Bitcoin, 35th International Conference on ICT Systems Security and Privacy Protection – IFIP SEC 2020 (CCF-C)
   * 2 M.S. in Jekyll, GitHub University, 2014 
   * 3 Ph.D in Version Control Theory, GitHub University, 2018 (expected) 
 * Journal
