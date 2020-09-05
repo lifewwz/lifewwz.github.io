@@ -12,7 +12,7 @@ redirect_from:
 2020
 ======
 * Conference
-  * [SEC’20] <b>Weizheng Wang</b>, Chunhua Su. "CCBRSN: A System with High Embedding Capacity for Covert Communication in Bitcoin." 35th International Conference on ICT Systems Security and Privacy Protection – IFIP SEC 2020" (CCF-C)
+  * [SEC’20] <b>Weizheng Wang</b>, Chunhua Su. "CCBRSN: A System with High Embedding Capacity for Covert Communication in Bitcoin." 35th IFIP TC-11 SEC 2020 International Information Security and Privacy Conference, September 21 – 23, 2020, Maribor, Slovenia (CCF-C) 
   * 2 M.S. in Jekyll, GitHub University, 2014 
   * 3 Ph.D in Version Control Theory, GitHub University, 2018 (expected) 
 * Journal
