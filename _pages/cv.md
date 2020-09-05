@@ -12,9 +12,9 @@ redirect_from:
 2020
 ======
 * Conference
-  <li> B.S. in GitHub, GitHub University, 2012 </li>
-  <li> 2 M.S. in Jekyll, GitHub University, 2014 </li>
-  <li> 3 Ph.D in Version Control Theory, GitHub University, 2018 (expected) </li>
+  * B.S. in GitHub, GitHub University, 2012 
+  * 2 M.S. in Jekyll, GitHub University, 2014 
+  * 3 Ph.D in Version Control Theory, GitHub University, 2018 (expected) 
 * Journal
   1 B.S. in GitHub, GitHub University, 2012
   2 M.S. in Jekyll, GitHub University, 2014
