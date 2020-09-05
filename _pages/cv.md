@@ -11,8 +11,6 @@ redirect_from:
 
 2020
 ======
-  2020
-  ======
 * Conference
   * B.S. in GitHub, GitHub University, 2012 
   * 2 M.S. in Jekyll, GitHub University, 2014 
